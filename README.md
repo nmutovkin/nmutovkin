@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Nikita, Python developer and enthusiast.
+
+Language and tools I use: Python/Django/DRF/FastAPI/Flask/Git/PostgreSQL/Docker.
 
 <!--
 **nmutovkin/nmutovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
